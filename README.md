@@ -4,7 +4,7 @@ Market Shift Detector is a data analytics and AI-assisted dashboard designed to 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Installation
 
@@ -34,15 +34,15 @@ The dashboard will automatically open at `http://localhost:8501`
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The dashboard consists of 5 main pages:
 
-1. **📊 Executive Overview** - High-level KPIs, signal distribution, and top movers.
-2. **🔍 Early Signal Monitor** - Filterable product table with market shift signals.
-3. **🔬 Product Deep Dive** - Detailed analysis of individual products with trends.
-4. **🌍 Category & Region Analysis** - Comparative analysis across categories and regions.
-5. **📚 Methodology** - Explanation of the Market Shift Score and approach.
+1. **Executive Overview** - High-level KPIs, signal distribution, and top movers.
+2. **Early Signal Monitor** - Filterable product table with market shift signals.
+3. **Product Deep Dive** - Detailed analysis of individual products with trends.
+4. **Category & Region Analysis** - Comparative analysis across categories and regions.
+5. **Methodology** - Explanation of the Market Shift Score and approach.
 
 ---
 
