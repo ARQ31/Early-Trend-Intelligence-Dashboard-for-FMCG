@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+secrets.toml
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# API keys / credentials
+*api_key*
+*apikey*
+*secret*
+*credentials*
+*.pem
+*.key
+*.crt
+
+# Keep safe templates
+!.streamlit/secrets.example.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated / local cache
+.cache/
+.streamlit/cache/
+
+# Large local exports
+exports/
+reports/
+assets/screenshots/*.png
+assets/screenshots/*.jpg
+assets/screenshots/*.jpeg
